@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" Width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyamarodia01&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyamarodia01" /> </p>
 
 - 📫 How to reach me **lakshyamarodia@gmail.com**
@@ -12,8 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=www.linkedin.com/in/lakshya-marodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lakshya-marodia" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshya_marodia.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_marodia.24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@lakshyamarodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lakshyamarodia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lakshyamarodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshyamarodia" height="30" width="40" /></a>
 </p>
